@@ -30,9 +30,6 @@ The HMAX model is a biologically inspired computational framework developed by T
 ### Results:
 The model shows promising performance in object recognition tasks, with distinct accuracies for various body parts of animals. The hierarchical structure allows for robust feature extraction and classification.
 
-### References:
-- [HMAX Model Overview](http://cbcl.mit.edu/software-datasets/serre/SerreOlivaPoggioPNAS07/index.htm)
-
 ---
 
 ## 2. **Psychophysical Task Design Using Psychtoolbox**
@@ -56,11 +53,3 @@ This task is designed to investigate visual categorization in human subjects usi
 
 ### Results:
 Participants’ performance is assessed based on the accuracy for different body parts, and reaction times are recorded for each trial. The task provides insights into how humans process and categorize visual information.
-
-### References:
-- [Psychtoolbox Documentation](http://psychtoolbox.org/docs/SetupPsychtoolbox)
-
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
